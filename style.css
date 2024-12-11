@@ -17,7 +17,9 @@ h1 {
   left: 50%;
   font-size: 50px;
   transform: translateX(-50%);
+  color: #ff55ff;
 }
+
 a {
   position: fixed;
   bottom: 0;
